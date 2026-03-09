@@ -1,6 +1,5 @@
 # ctr-calibration-ml
 CTR prediction with linear models and probability calibration (isotonic); PR-AUC/LogLoss/Brier, sklearn pipelines and artifact saving.
-# CTR prediction + probability calibration (isotonic)
 
 Проект: предсказание вероятности клика по рекламному показу (CTR) на табличных данных и улучшение качества вероятностей с помощью калибровки.
 
